@@ -27,7 +27,7 @@ const Homepage = () => (
 
       <div className='menu-item'>
         <div className='content'>
-          <h1 className='title'>WOMENS</h1>
+          <h3 className='title'>WOMENS</h3>
           <span className='subtitle'>SHOP NOW</span>
         </div>
       </div>
